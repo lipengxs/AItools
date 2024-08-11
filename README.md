@@ -6,7 +6,7 @@ In our work, we often need to design and preview ZPL (Zebra Programming Language
 
 ### Website Features
 
-The newly launched ZPL Viewer website (address: [https://zplpreview.com/](https://zplpreview.com/)) offers the following features:
+The newly launched ZPL Viewer website (address: [https://zplpreview.com](https://zplpreview.com)) offers the following features:
 
 - **Online ZPL File Preview**: Preview ZPL files directly in your browser to ensure labels and barcodes are correctly formatted before printing.
 - **ZPL Conversion Tools**:
@@ -20,7 +20,7 @@ The newly launched ZPL Viewer website (address: [https://zplpreview.com/](https:
 
 #### Online ZPL Preview
 
-1. Open the website: [https://zplpreview.com/](https://zplpreview.com/)
+1. Open the website: [https://zplpreview.com](https://zplpreview.com)
 2. Enter or paste the ZPL code into the text area.
 3. Select print density: 6 dpmm (152 dpi), 8 dpmm (203 dpi), 12 dpmm (300 dpi), 24 dpmm (600 dpi).
 4. Click the "Preview" button to view the result.
@@ -108,6 +108,6 @@ Thank you all for your support!
 
 ---
 
-Feel free to visit and try it out: [https://zplpreview.com/](https://zplpreview.com/)
+Feel free to visit and try it out: [https://zplpreview.com](https://zplpreview.com)
 
 © 2024 ZPL Viewer. All rights reserved.
